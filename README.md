@@ -18,4 +18,4 @@ Future Work:
  
 Architecture : 
 
-![image](https://github.com/user-attachments/assets/56f0e77e-9460-4307-8f51-9d0af1c4d69c)
+![image](https://github.com/user-attachments/assets/b36b9f83-7224-4b96-8f47-4b66b74dc647)
